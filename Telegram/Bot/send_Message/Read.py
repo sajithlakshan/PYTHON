@@ -4,6 +4,35 @@
 #telegram_send.send(messages=["Wow that was easy!"])
 
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import telegram
 bot = telegram.Bot(token='5025804925:AAGkXks9rf3q-f8bV_FUwBLr1ZKB0LjGGOM')
 print(bot.get_me())
